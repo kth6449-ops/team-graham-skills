@@ -3,7 +3,7 @@
 BESOLT의 **Team Graham** 에이전트 페르소나·스킬 저장소입니다.
 SME(중소·중견기업) 제품·사업 개발을 위한 4인 전문가 팀을 Claude Code와 claude.ai에서 같은 규칙으로 운영합니다.
 
-> **현재 버전**: v5.0.0 · **관리자**: Graham Kim (BESOLT)
+> **현재 버전**: v5.0.0 · **관리자**: Graham Kim
 
 ---
 
